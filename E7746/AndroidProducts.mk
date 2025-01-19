@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_E7746.mk
+    $(LOCAL_DIR)/twrp_E7746.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_E7746-user \
-    omni_E7746-userdebug \
-    omni_E7746-eng
+    twrp_E7746-user \
+    twrp_E7746-userdebug \
+    twrp_E7746-eng
